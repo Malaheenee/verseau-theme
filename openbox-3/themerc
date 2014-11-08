@@ -1,0 +1,164 @@
+# Name: MetroLight openbox theme
+# Description: Inspired by Metrox-Blue theme (http://box-look.org/content/show.php/Metrox+20131103?content=161079)
+# Author: Charles Malaheenee, 2014
+# License: GPL-3.0+
+#
+# Main color active: #50a5ff
+# Main color inactive: #eeeeee
+# Text color active: #333333
+# Text color inactive: #999999
+# Image color enabled: #333333
+# Image color disabled: #bbbbbb
+
+
+##### General #####
+border.width: 1
+border.color: #50a5ff
+padding.width: 3
+padding.height: 2
+
+##### Menu #####
+
+# General #
+menu.border.width: 1
+menu.border.color: #50a5ff
+menu.overlap.x: 1
+menu.overlap.y: 1
+
+# Title #
+menu.title.bg: flat solid 
+menu.title.bg.color: #50a5ff
+menu.title.text.color:#333333
+menu.title.text.font: shadow=n
+menu.title.text.justify: center
+
+# Separators #
+menu.separator.width: 1
+menu.separator.color: #50a5ff
+menu.separator.padding.width: 4
+menu.separator.padding.height: 3
+
+# Items #
+menu.items.bg: flat solid
+menu.items.bg.color: #eeeeee
+menu.items.text.color: #333333
+menu.items.disabled.text.color: #999999
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #50a5ff
+menu.items.active.text.color: #eeeeee
+menu.items.font: shadow=n
+menu.items.justify: left
+
+
+##### Windows #####
+
+# General #
+window.client.padding.width: 2
+window.client.padding.height: 1
+
+window.handle.width: 1
+window.label.text.justify: center
+
+# Title (top) #
+window.active.title.bg: flat solid
+window.active.title.bg.color: #50a5ff
+window.active.title.separator.color: #50a5ff
+
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #eeeeee
+window.inactive.title.separator.color: #eeeeee
+
+# Text #
+window.active.label.bg: parentrelative
+window.active.label.text.color: #333333
+window.active.text.justify: center
+
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #999999
+window.inactive.text.justify: center
+
+# Border #
+window.active.border.color: #50a5ff
+window.active.client.color: #50a5ff
+
+window.inactive.border.color: #50a5ff
+window.inactive.client.color: #eeeeee
+
+# Handle (bottom)#
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #50a5ff
+
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #eeeeee
+
+# Grip (left & right sides) #
+window.active.grip.bg: flat solid
+window.active.grip.bg.color: #50a5ff
+
+window.inactive.grip.bg: flat solid
+window.inactive.grip.bg.color: #eeeeee
+
+# Buttons #
+window.active.button.unpressed.bg: flat solid
+window.active.button.unpressed.bg.color: #50a5ff
+window.active.button.unpressed.image.color: #333333
+window.active.button.toggled.unpressed.bg: flat solid
+window.active.button.toggled.unpressed.bg.color: #50a5ff
+window.active.button.toggled.unpressed.image.color: #333333
+window.active.button.hover.bg: flat solid
+window.active.button.hover.bg.color: #eeeeee
+window.active.button.hover.image.color: #333333
+window.active.button.toggled.hover.bg: flat solid
+window.active.button.toggled.hover.bg.color: #eeeeee
+window.active.button.toggled.hover.image.color: #333333
+window.active.button.pressed.bg: flat solid
+window.active.button.pressed.bg.color: #50a5ff
+window.active.button.pressed.image.color: #333333
+window.active.button.toggled.pressed.bg: flat solid
+window.active.button.toggled.pressed.bg.color: #50a5ff
+window.active.button.toggled.pressed.image.color: #333333
+window.active.button.disabled.bg: flat solid
+window.active.button.disabled.bg.color: #50a5ff
+window.active.button.disabled.image.color: #bbbbbb
+window.active.button.toggled.disabled.bg: flat solid
+window.active.button.toggled.disabled.bg.color: #50a5ff
+window.active.button.toggled.disabled.image.color: #bbbbbb
+
+window.inactive.button.unpressed.bg: flat solid
+window.inactive.button.unpressed.bg.color: #eeeeee
+window.inactive.button.unpressed.image.color: #999999
+window.inactive.button.toggled.unpressed.bg: flat solid
+window.inactive.button.toggled.unpressed.bg.color: #eeeeee
+window.inactive.button.toggled.unpressed.image.color: #999999
+window.inactive.button.hover.bg: flat solid
+window.inactive.button.hover.bg.color: #50a5ff
+window.inactive.button.hover.image.color: #333333
+window.inactive.button.toggled.hover.bg: flat solid
+window.inactive.button.toggled.hover.bg.color: #50a5ff
+window.inactive.button.toggled.hover.image.color: #333333
+window.inactive.button.pressed.bg: flat solid
+window.inactive.button.pressed.bg.color: #eeeeee
+window.inactive.button.pressed.image.color: #999999
+window.inactive.button.toggled.pressed.bg: flat solid
+window.inactive.button.toggled.pressed.bg.color: #eeeeee
+window.inactive.button.toggled.pressed.image.color: #999999
+window.inactive.button.disabled.bg: flat solid
+window.inactive.button.disabled.bg.color: #eeeeee
+window.inactive.button.disabled.image.color: #bbbbbb
+window.inactive.button.toggled.disabled.bg: flat solid
+window.inactive.button.toggled.disabled.bg.color: #eeeeee
+window.inactive.button.toggled.disabled.image.color: #bbbbbb
+
+#####  OSD (apps and desktop switchers) ##### 
+osd.border.width: 2
+osd.border.color: #50a5ff
+osd.bg: flat solid
+osd.bg.color: #eeeeee
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #50a5ff
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color:#eeeeee
+osd.label.bg: parentrelative
+osd.label.text.color: #333333
+
+
