@@ -1,24 +1,26 @@
-# Name: MetroLight xfwm4 theme
-# Description: Inspired by Metrox-Blue theme (I-sty)
+# Name: Verseau xfwm4 theme
+# Description: Inspired by Metrox-Blue theme (http://box-look.org/content/show.php/Metrox+20131103?content=161079)
 # Author: Charles Malaheenee, 2014
-# License: GPL-3.0+
+# License: GPL-2.0
 
+# Text colors #
 active_text_color=#333333
 inactive_text_color=#999999
 
+# Button settings #
 button_offset=0
 button_spacing=-1
+button_layout=O|HMC
 
-full_width_title=true
+# Other settings #
 maximized_offset=3
-
 show_app_icon=true
 
+# Title position #
+title_alignment=center
 title_shadow_active=false
 title_shadow_inactive=false
-
 title_horizontal_offset=0
 title_vertical_offset_active=0
 title_vertical_offset_inactive=0
-
-
+full_width_title=true
