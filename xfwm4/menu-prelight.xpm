@@ -1,8 +1,7 @@
 /* XPM */
 static char * menu_prelight_xpm[] = {
-"14 14 2 1",
-" 	c None",
-".	c #B7D4F1",
+"14 14 1 1",
+".	c #B7D4F1 s active_hilight_1",
 "..............",
 "..............",
 "..............",

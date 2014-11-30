@@ -1,7 +1,6 @@
 /* XPM */
 static char * top_right_active_xpm[] = {
-"10 20 2 1",
-" 	c None",
+"10 20 1 1",
 ".	c #50A5FF s active_color_1",
 "..........",
 "..........",

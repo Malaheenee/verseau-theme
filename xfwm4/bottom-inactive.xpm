@@ -1,10 +1,8 @@
 /* XPM */
 static char * bottom_inactive_xpm[] = {
-"10 4 3 1",
-" 	c None",
+"10 3 2 1",
 ".	c #50A5FF s active_color_1",
 "+	c #EEEEEE s inactive_color_1",
-"++++++++++",
 "++++++++++",
 "++++++++++",
 ".........."};
